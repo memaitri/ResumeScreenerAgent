@@ -2,6 +2,13 @@
 
 A multi-agent resume screening system powered by **LangGraph**, **Groq LLM**, and **FastAPI** that automatically analyzes and ranks resumes against job descriptions.
 
+
+**<img width="1132" height="730" alt="RESUME_TEST" src="https://github.com/user-attachments/assets/2fa506b8-a42e-4cd1-b7fc-2a7691cf7444" />
+**
+
+<img width="1138" height="602" alt="RESUME_OUTPUT" src="https://github.com/user-attachments/assets/4af89e6a-54dc-43a5-ab72-68139f6fe8a4" />
+
+
 ## Features ✨
 
 - **Intelligent Resume Parsing**: Extracts and chunks resume text for detailed analysis
