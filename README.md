@@ -244,12 +244,6 @@ netstat -ano | findstr :8001  # Windows
 
 MIT License - feel free to use this for commercial projects
 
-## Author 👤
-
-**Maitri Movaliya**
-- GitHub: [@memaitri](https://github.com/memaitri)
-- Project: Resume Screener Agent
-
 ---
 
 **Made with ❤️ using LangGraph, Groq, and React**
